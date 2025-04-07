@@ -1,12 +1,13 @@
 # CIRCLE INTERNET GROUP, INC.
 - [https://circle-internet-financial.netlify.app/](https://circle-internet-financial.netlify.app/)
-ID
+
+#### ID
 ```
 CIK 0001876042
 EIN 992840247
 ```
 
-LINKS
+#### LINKS
 ```
 https://circle-internet-financial.netlify.app/
 https://www.sec.gov/edgar/browse/?CIK=0001876042
